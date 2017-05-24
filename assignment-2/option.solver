@@ -1,0 +1,1 @@
+reset; option solver "ampl.linux64/minos"; model 3-2-a.mod; data 3-2-a.dat; solve;

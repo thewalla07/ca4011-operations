@@ -1,0 +1,10 @@
+set EXER := walking jogging swimming machine indoor pushback;
+param: cals tol min_time :=
+walking  100 5 1
+jogging  200 2 1
+swimming 300 3 1
+machine  150 3.5 1
+indoor   300 3 0
+pushback 500 0.5 0 ;
+
+param cal_target := 2000 ;

@@ -1,0 +1,12 @@
+set SUPP := A B C D E F G;
+param: cane corn beet cost :=
+A 10 30 60 10
+B 10 40 50 11
+C 20 40 40 12
+D 30 20 50 13
+E 40 60 00 14
+F 20 70 10 12
+G 60 10 30 15 ;
+
+param low_per := 30;
+param high_per := 37;

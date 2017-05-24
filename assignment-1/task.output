@@ -1,0 +1,9 @@
+10000 replications took 547.878226ms
+Average system time: 81.02757058823526
+Average queue time: 57.6380666666668
+Max system time: 672
+Max queue time: 603
+Proportion of time idle: 0.13942264705882418
+Average customers in system: 8.105558039215676
+Average customers in queue 5.762009607843128
+Average customers served 51

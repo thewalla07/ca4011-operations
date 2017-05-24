@@ -1,0 +1,16 @@
+param: ORIG: supply := # defines set "ORIG" and param "supply"
+M1 80
+M2 50
+M3 160 ;
+param: DEST: demand := # defines "DEST" and "demand"
+P1 10
+P2 40
+P3 60
+P4 20
+P5 20
+P6 30 ;
+param cost:
+P1 P2 P3 P4 P5 P6 :=
+M1 3 3 2 5 2 1
+M2 4 1 1 2 2 1
+M3 2 2 5 1 1 2 ;

@@ -1,0 +1,8 @@
+set CARS := t c l;
+param: rate profit commit fuel :=
+t 1 200 10 50
+c 2 500 20 30
+l 3 700 15 20 ;
+
+param max_hours := 130 ;
+param min_effic := 35 ;
